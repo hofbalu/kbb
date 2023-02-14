@@ -1,0 +1,17 @@
+=== WEB ===
+
+barvy: 
+#E4C1F0; Filovo růžová
+#79EDDC Tyrkosová
+#58EFD6 Světle zelená
+#EBE1EF; bg
+
+
+
+
+O čem to je:
+Header = classic header (on scroll custom fixed)
+1. in left logo + title
+2. Informations 
+3. Fotos (Marketing)
+4. Partners (Pivo Švarc)
